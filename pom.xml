@@ -12,6 +12,14 @@
     <name>${project.artifactId}</name>
     <description></description>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Rotaziun Maven Packages</name>
+            <url>https://maven.pkg.github.com/SchweizerischeBundesbahnen/Rotaziun</url>
+        </repository>
+    </distributionManagement>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>17</java.version>
