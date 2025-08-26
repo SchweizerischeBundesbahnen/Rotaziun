@@ -67,7 +67,7 @@ public final class RotaziunBlockConstructor {
 
     private static RotaziunBlock makeBlock(List<RotaziunBlockItem> items) {
         List<RotaziunBlockDay> mikadoDays = new ArrayList<>();
-        int blockDayIndex = 0;
+        int blockDayIndex = 1;
 
         for(int idx = 0; idx < items.size(); idx++) {
             if (idx == 0 || chainStartsNewDay(items.get(idx-1), items.get(idx))){
