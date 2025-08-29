@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.23](https://github.com/SchweizerischeBundesbahnen/Rotaziun/compare/v1.0.22...v1.0.23) (2025-08-29)
+
+
+### Bug Fixes
+
+* provide more examples in README.md ([bd00c51](https://github.com/SchweizerischeBundesbahnen/Rotaziun/commit/bd00c5127b585d47d485c67645d84f8a465cd13d))
+* provide more examples in README.md ([db67cef](https://github.com/SchweizerischeBundesbahnen/Rotaziun/commit/db67cefd45626c2351acde75b9c6462716855b64))
+
 ## [1.0.22](https://github.com/SchweizerischeBundesbahnen/Rotaziun/compare/v1.0.21...v1.0.22) (2025-08-26)
 
 

@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>ch.sbb.simba</groupId>
     <artifactId>rotaziun</artifactId>
-    <version>1.0.23-SNAPSHOT</version>
+    <version>1.0.23</version>
 
     <name>${project.artifactId}</name>
     <description/>
